@@ -1,0 +1,18 @@
+server:
+  port: 8081
+spring:
+  rabbitmq:
+    host: node01
+    port: 5672
+    username: huyue
+    password: huyue
+    # 可以不写
+    virtual-host: /
+
+    #确认回调需要在RabbitConfig做配置
+    #确认消息已经发送到交换机（Exchange）
+    publisher-confirm-type: correlated
+    #确认消息已经发送到队列（Queue）
+    publisher-returns: true
+
+
