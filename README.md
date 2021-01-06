@@ -161,7 +161,7 @@
 
 1. RabbitMQ官网
 
-2. [http://rabbitmq.mr-ping.com/]:RabbitMQ瓶先生中文文档
+2. [RabbitMQ瓶先生中文文档](http://rabbitmq.mr-ping.com/)
 
-3. [ https://blog.csdn.net/qq_35387940/article/details/100514134]:优质CSND博文
+3. [优质CSND博文](https://blog.csdn.net/qq_35387940/article/details/100514134)
 
